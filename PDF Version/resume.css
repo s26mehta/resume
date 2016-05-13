@@ -43,6 +43,7 @@ a#pdf:hover { background: #222; }
 .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; padding-left:15px;}
 .job h5 { position: absolute; top: 0.35em; right: 0 }
 .job p { margin: 0.75em 0 .75em 0; }
+.job div { margin-left:10px; text-indent:-10px; margin-bottom:5px;}
 
 .last { border: none; }
 .skills-list {  }
