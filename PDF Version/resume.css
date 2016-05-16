@@ -53,7 +53,7 @@ a#pdf:hover { background: #222; }
 .skills-list li span { font-size: 152%; display: block; margin-bottom: -2px; padding: 0 }
 .talent { width: 33%; float: left }
 .talent h2 { margin-bottom: 6px; }
-.last li {padding-left:15px;}
+.last li {padding-left:18px;}
 
 #srt-ttab { margin-bottom: 100px; text-align: center;  }
 #srt-ttab img.last { margin-top: 20px }
