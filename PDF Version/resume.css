@@ -12,7 +12,7 @@ body { font-family: Times New Roman; color: #444; font-size:13.5px;}
 /* //-- header, body, footer -- */
 #hd { margin: 2.5em 0 1.5em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
 #hd h2 { text-transform: uppercase; letter-spacing: 2px; }
-#bd, #ft { margin-bottom: 2em; }
+#ft { margin-bottom: 2em; }
 
 /* //-- footer -- */
 #ft { padding: 1em 0 5em 0; font-size: 92%; border-top: 1px solid #ccc; text-align: center; }
@@ -60,6 +60,7 @@ a#pdf:hover { background: #222; }
 
 /* --// override to force 1/8th width grids -- */
 .yui-gf .yui-u{width:80.2%;}
+.yui-u i { font-size:14px; }
 .yui-gf div.first{width:12.3%;}
 #exp {padding-top:45px;}
 #logo {padding-left:20px;}
